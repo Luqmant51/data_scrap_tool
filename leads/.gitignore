@@ -205,15 +205,3 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-
-*\node_modules
-*\node_modules\*
-
-CarsComScraper/USA/*
-!CarsComScraper/USA/README.md
-
-CarsComScraper/zipcode/*
-CarsComScraper/.idea/*
-
-*.csv
-*.json
